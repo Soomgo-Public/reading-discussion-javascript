@@ -1,6 +1,5 @@
-# 🎉 Welcome Soomgo Study Repo
+# 🎉 숨고의 모바일/프론트 개발자가 함께하는 JS 기초 다시 다지기
 
----
 ## 🐣 You Don’t Know JS 타입과 문법, 스코프와 클로저
 
 <img width="200" alt="스크린샷 2022-06-05 오후 4 11 54" src="https://user-images.githubusercontent.com/45163013/172039829-de30cabe-addb-47f2-b1cd-9f0e9c72ff77.png">

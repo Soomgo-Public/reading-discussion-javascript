@@ -29,3 +29,4 @@ J5ON.stringify( { a:2, b:function(){} } )' // "{"a":2}"
 - undefined / null / false / +0 / -0 / NaN / "" 이 값들을 강제변환 할 생각은 안해봤지만, falsy 값들을 정리해줘서 좋았다. 외워질듯 ㅎ
 
 ### 📚 공유하고 싶은 부분(사이트)
+z

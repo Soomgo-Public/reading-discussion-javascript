@@ -36,7 +36,7 @@
 | 3   | 6월 10일 (금)      | ~70 (3.2.1 객체 레퍼의 함정 까지)     | Stella, Jessie, Linus, Jimmy, Harry, Hayley |
 | 4   | 6월 13일 (월)      | ~84 (4장 전까지)                 | Daniel, Jimmy, Harry, Hayley, Linus, Stella, Jessie |
 | 5   | 6월 17일 (금)      | ~99 (4.3 명시적 강제 변환 전까지)      | Daniel, Jimmy, Stella, Jessie, Linus, Bentley |
-| 6   | 6월 20일 (월)      | ~113 (4.4 암시적 변환 전까지)        | |
+| 6   | 6월 20일 (월)      | ~113 (4.4 암시적 변환 전까지)        | Daniel, Jimmy, Harry, Jessie, Linus, Bentley |
 | 7   | 6월 24일 (금)      | ~127 (4.5.2 추상 동등 비교 전까지)    | |
 | 8   | 6월 27일 (월)      | ~143 (4.6 추상 관계 비교 전까지)      | |
 | 9   | 7월 1일 (금)       | ~157 (5.1.3 콘텍스트 규칙 전까지)     | |

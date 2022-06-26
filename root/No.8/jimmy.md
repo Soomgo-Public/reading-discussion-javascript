@@ -28,3 +28,5 @@
 - 추상 동등 비교 알고리즘 명세
   - es5 (https://262.ecma-international.org/5.1/#sec-11.9.3)
   - es6 (https://262.ecma-international.org/6.0/#sec-abstract-equality-comparison)
+    - ![img.png](jimmy/img1.png)
+      - 이런 절차가 앞에 추가되었는데, 읽어보니 두 표현식 중 하나가 흐름 제어 연산자인 경우에 대한 항목인 것 같다

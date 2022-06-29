@@ -50,11 +50,11 @@
 
 ```bash
 # 최초 1회 실행
-git clone xxx
+git clone git@github.com:Soomgo-public/reading-discussion-javascript.git
 ```
 
 ```bash
-git pull origin master
+git pull origin main
 git commit && git push
 ```
 

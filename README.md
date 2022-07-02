@@ -38,8 +38,8 @@
 | 5   | 6월 17일 (금)      | ~99 (4.3 명시적 강제 변환 전까지)      | Daniel, Jimmy, Stella, Jessie, Linus, Bentley       |
 | 6   | 6월 20일 (월)      | ~113 (4.4 암시적 변환 전까지)        | Daniel, Jimmy, Harry, Jessie, Linus, Bentley        |
 | 7   | 6월 24일 (금)      | ~127 (4.5.2 추상 동등 비교 전까지)    | Daniel, Jimmy, Stella, Linus, Hayley                      |
-| 8   | 6월 27일 (월)      | ~143 (4.6 추상 관계 비교 전까지)      | Jimmy, Stella, Linus, Bentley, Hayley               |
-| 9   | 7월 1일 (금)       | ~157 (5.1.3 콘텍스트 규칙 전까지)     |                                                     |
+| 8   | 6월 27일 (월)      | ~143 (4.6 추상 관계 비교 전까지)      | Daniel, Jimmy, Stella, Linus, Hayley               |
+| 9   | 7월 1일 (금)       | ~157 (5.1.3 콘텍스트 규칙 전까지)     | Jimmy, Stella, Linus, Bentley, Hayley                                                   |
 | 10  | 7월 4일 (월)       | ~173 (5.2.4 분명히 하자 전까지)      |                                                     |
 | 11  | 7월 8일 (금)       | ~190 (Part-2 스코프와 클로저 전까지)   |                                                     |
 | 12  | 7월 11일 (월)      | ~204 (렉시컬 스코프 전까지)           |                                                     |

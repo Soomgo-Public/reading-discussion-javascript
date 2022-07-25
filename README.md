@@ -46,7 +46,7 @@
 | 13  | 7월 15일 (금)      | ~220 (3.3 스코프 역할을 하는 함수 전까지) | Daniel, Jimmy, Linus, Hayley |
 | 14  | 7월 18일 (월)      | ~232 (Chapter4 호이스팅 전까지)     | Daniel, Jimmy, Stella, Linus |
 | 15  | 7월 22일 (금)      | ~245 (5.4 반복문과 클로저 전까지)     | Jimmy, Stella |
-| 16  | 7월 25일 (월)      | ~256 (끝!)     | |
+| 16  | 7월 25일 (월)      | ~256 (끝!)     | Linus, Harry, Hayley, Jimmy |
 
 ## How to
 
